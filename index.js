@@ -3,4 +3,4 @@
 
 // console.log('Hello, Misha!')
 
-console.log(Math.round(5.34))
+console.log(Math.round(5.34));
